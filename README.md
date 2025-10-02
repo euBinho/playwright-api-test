@@ -69,9 +69,6 @@ O Playwright gera automaticamente:
 - `playwright-report/` → relatório HTML interativo
 - `test-results/` → resultados brutos dos testes
 
-Exemplo de execução bem-sucedida:  
-![report-example](https://playwright.dev/img/playwright-report.png)
-
 ---
 
 ## 🔮 Melhorias futuras
