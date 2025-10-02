@@ -1,4 +1,4 @@
-# 🎯 playwright-api-tests
+# 🎯 Playwright API Tests Dynamic
 
 Projeto de automação de testes de API utilizando **[Playwright](https://playwright.dev/)** com **TypeScript** e **Faker** para geração dinâmica de dados.
 
