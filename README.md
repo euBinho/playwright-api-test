@@ -54,12 +54,12 @@ npm install
 
 3. Rode todos os testes:
 ```bash
-npx playwright test
+npm test
 ```
 
 4. Gerar relatório HTML:
 ```bash
-npx playwright show-report
+npm report
 ```
 
 ---
