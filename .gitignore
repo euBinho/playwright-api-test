@@ -1,0 +1,17 @@
+# dependências
+node_modules/
+
+# playwright
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+playwright/.auth/
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db

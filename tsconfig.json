@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "Node16",
+    "moduleResolution": "Node16",
+    "strict": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "noEmit": true,
+    "types": [
+      "@playwright/test",
+      "node"
+    ]
+  },
+  "include": [
+    "tests/**/*.ts",
+    "playwright.config.ts"
+  ]
+}
